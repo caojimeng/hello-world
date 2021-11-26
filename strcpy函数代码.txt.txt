@@ -1,3 +1,5 @@
+/*/*/*/*/*/*
+
 char* StrCpy(char* src)
 {
 	int len;
@@ -12,7 +14,8 @@ char* StrCpy(char* src)
 	*dest = *dest + '\0';
 	return *dest;
 }
+*/*/*/*/*/*/
 
 /**
-远程edit
+本地修改
 **/
